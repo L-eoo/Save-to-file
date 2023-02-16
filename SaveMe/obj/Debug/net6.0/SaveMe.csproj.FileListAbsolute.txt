@@ -1,0 +1,15 @@
+C:\Users\cries\source\repos\SaveMe\SaveMe\bin\Debug\net6.0\SaveMe.exe
+C:\Users\cries\source\repos\SaveMe\SaveMe\bin\Debug\net6.0\SaveMe.deps.json
+C:\Users\cries\source\repos\SaveMe\SaveMe\bin\Debug\net6.0\SaveMe.runtimeconfig.json
+C:\Users\cries\source\repos\SaveMe\SaveMe\bin\Debug\net6.0\SaveMe.dll
+C:\Users\cries\source\repos\SaveMe\SaveMe\bin\Debug\net6.0\SaveMe.pdb
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.csproj.AssemblyReference.cache
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.AssemblyInfoInputs.cache
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.AssemblyInfo.cs
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.csproj.CoreCompileInputs.cache
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.dll
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\refint\SaveMe.dll
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.pdb
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\SaveMe.genruntimeconfig.cache
+C:\Users\cries\source\repos\SaveMe\SaveMe\obj\Debug\net6.0\ref\SaveMe.dll
